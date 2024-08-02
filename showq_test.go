@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/kumina/postfix_exporter/mock"
+	"github.com/siwei-luo/postfix_exporter/mock"
 	"github.com/stretchr/testify/assert"
 	"os"
 	"testing"
